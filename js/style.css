@@ -1,0 +1,12 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    background: url(/images/img_snow.jpg) no-repeat center;
+    background-size: cover;
+    height: 200px;
+}
